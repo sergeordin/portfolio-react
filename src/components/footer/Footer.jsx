@@ -1,7 +1,7 @@
 import vk from './../../img/icons/vk.svg';
 import instagram from './../../img/icons/instagram.svg';
 import twitter from './../../img/icons/twitter.svg';
-import github from './../../img/icons/gitHub.svg';
+import github from './../../img/icons/gh.svg';
 import linkedin from './../../img/icons/linkedin.svg';
 import styles from './Footer.module.css';
 
